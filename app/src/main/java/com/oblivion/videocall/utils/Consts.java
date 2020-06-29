@@ -1,7 +1,11 @@
 package com.oblivion.videocall.utils;
 
+
 import android.Manifest;
 
+/**
+ * QuickBlox team
+ */
 public interface Consts {
 
     int ERR_LOGIN_ALREADY_TAKEN_HTTP_STATUS = 422;

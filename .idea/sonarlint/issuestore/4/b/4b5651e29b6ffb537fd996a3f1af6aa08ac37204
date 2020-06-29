@@ -1,0 +1,13 @@
+
+F
+java:S1659"-Declare "maxSeekBarValue" on a separate line.(¦Þî·þÿÿÿÿ
+j
+java:S1450"VRemove the "seekBar" field and declare it as a local variable in the relevant methods.(ðŸ™‡
+>
+java:S1068"+Remove this unused "context" private field.(êÝç
+F
+java:S1659"-Declare "seekBarStepSize" on a separate line.(¦Þî·þÿÿÿÿ
+F
+java:S1659"-Declare "minSeekBarValue" on a separate line.(¦Þî·þÿÿÿÿ
+^
+java:S1192"JDefine a constant instead of duplicating this literal "Attribute" 3 times.(ù¡Ò•

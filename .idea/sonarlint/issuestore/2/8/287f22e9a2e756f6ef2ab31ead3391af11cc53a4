@@ -1,0 +1,5 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ÒŠËÌ8§Çı¯.
+
+java:S1319"uThe type of the "recipients" object should be an interface such as "List" rather than the implementation "ArrayList".(¦Ö¯8§Çı¯.

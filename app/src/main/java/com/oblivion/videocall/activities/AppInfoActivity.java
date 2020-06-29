@@ -11,7 +11,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.quickblox.auth.session.QBSettings;
-//import com.quickblox.sample.videochat.java.BuildConfig;
+import com.oblivion.videocall.BuildConfig;
 import com.oblivion.videocall.R;
 
 

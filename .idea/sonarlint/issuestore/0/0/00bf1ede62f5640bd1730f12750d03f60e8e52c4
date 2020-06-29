@@ -1,0 +1,21 @@
+
+P
+java:S1128
+".Remove this unused import 'android.os.Bundle'.(°şÊóøÿÿÿÿ8¥×û¯.
+`
+java:S1128	">Remove this unused import 'android.content.pm.PackageManager'.(€®¥õÿÿÿÿÿ8€²áş¯.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8¯íû¯.
+P
+java:S1121A".Extract the assignment out of this expression.(Ø¡©£ûÿÿÿÿ8Ü÷óÿ¯.
+N
+java:S1128"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ8€²áş¯.
+O
+java:S1128"-Remove this unused import 'android.Manifest'.(¦øïúÿÿÿÿ8„Ûáş¯.
+X	java:S125;"<This block of commented-out lines of code should be removed.(é«å¼8Ü÷óÿ¯.
+Z
+java:S1128"=Remove this unused import 'androidx.core.app.ActivityCompat'.(ş¤—²8€²áş¯.
+U
+java:S1128"8Remove this unused import 'android.provider.MediaStore'.(ãçšş8Çéİû¯.
+X
+java:S2696!"6Make the enclosing method "static" or remove this set.(ñõîÙşÿÿÿÿ8—®Õû¯.
