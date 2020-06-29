@@ -28,5 +28,11 @@ dependencies {
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    implementation "com.quickblox:quickblox-android-sdk-messages:3.9.2"
+    implementation "com.quickblox:quickblox-android-sdk-chat:3.9.2"
+    implementation "com.quickblox:quickblox-android-sdk-content:3.9.2"
+    implementation "com.quickblox:quickblox-android-sdk-videochat-webrtc:3.9.2"
+    implementation "com.quickblox:quickblox-android-sdk-conference:3.9.2"
+    implementation "com.quickblox:quickblox-android-sdk-customobjects:3.9.2"
 
 }
