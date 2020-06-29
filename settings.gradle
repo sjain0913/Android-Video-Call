@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='VideoCall'
+rootProject.name = "VideoCall"
