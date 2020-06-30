@@ -148,6 +148,6 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="15dp"
-            android:src="@drawable/qb_logo" />
+            android:src="@drawable/bsc" />
     </LinearLayout>
 </ScrollView>

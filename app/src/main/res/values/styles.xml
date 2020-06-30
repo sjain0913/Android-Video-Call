@@ -60,7 +60,7 @@
     <style name="SplashLogoStyle" parent="WrapContent">
         <item name="android:layout_alignParentBottom">true</item>
         <item name="android:layout_centerHorizontal">true</item>
-        <item name="android:src">@drawable/qb_logo</item>
+        <item name="android:src">@drawable/bsc</item>
     </style>
 
     <style name="SplashAppVersionStyle" parent="WrapContent">

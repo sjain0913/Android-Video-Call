@@ -11,8 +11,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.quickblox.auth.session.QBSettings;
-//import com.oblivion.bsc.videochat.java.BuildConfig;
-import com.quickblox.sample.videochat.java.BuildConfig;
+import com.oblivion.bsc.videochat.java.BuildConfig;
 import com.oblivion.bsc.videochat.java.R;
 
 public class AppInfoActivity extends BaseActivity {
