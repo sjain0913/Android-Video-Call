@@ -3,9 +3,9 @@
 
     <string name="sender_id"></string>
 
-    <string name="current_version">1.0</string>
-    <string name="app_name">Boston Scientific VideoCall</string>
-    <string name="splash_app_title">Boston Scientific VideoCall</string>
+    <string name="current_version">0.9.1</string>
+    <string name="app_name">Sample Video Chat Java</string>
+    <string name="splash_app_title">Sample Video Chat Java</string>
     <string name="splash_create_session_error">Create session errors:</string>
 
     <!-- Dialogs strings -->

@@ -1,11 +1,0 @@
-
-™
-java:S1319"wThe type of the "existedUsers" object should be an interface such as "List" rather than the implementation "ArrayList".(‹Ζ‰€ϋÿÿÿÿ8«΅Πώ―.
-™
-java:S1319%"wThe type of the "existedUsers" object should be an interface such as "List" rather than the implementation "ArrayList".(Ν¨Χƒύÿÿÿÿ8«΅Πώ―.
-\
-java:S1118":Add a private constructor to hide the implicit public one.(²όÿÿÿÿÿ8«΅Πώ―.
-’
-java:S1319%"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ν¨Χƒύÿÿÿÿ8«΅Πώ―.
-’
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹Ζ‰€ϋÿÿÿÿ8«΅Πώ―.
