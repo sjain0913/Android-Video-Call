@@ -5,15 +5,15 @@ import android.app.Application;
 import com.crashlytics.android.Crashlytics;
 import com.quickblox.auth.session.QBSettings;
 import com.oblivion.bsc.videochat.java.util.QBResRequestExecutor;
-import com.quickblox.sample.videochat.java.BuildConfig;
+import com.oblivion.bsc.videochat.java.BuildConfig;
 
 import io.fabric.sdk.android.Fabric;
 
 public class App extends Application {
     //App credentials
-    private static final String APPLICATION_ID = "84455";
-    private static final String AUTH_KEY = "egJ2uUcMtw--XEk";
-    private static final String AUTH_SECRET = "QfRY4DWpgdDrnp5";
+    private static final String APPLICATION_ID = "84505";
+    private static final String AUTH_KEY = "UdYgJxZqPBGREP7";
+    private static final String AUTH_SECRET = "2zTWqkKWS3DpCcS";
     private static final String ACCOUNT_KEY = "12ioYPL-x4AcumLv3Ket";
 
     public static final String USER_DEFAULT_PASSWORD = "quickblox";
