@@ -4,8 +4,8 @@
     <string name="sender_id"></string>
 
     <string name="current_version">0.9.1</string>
-    <string name="app_name">BSC Video Call</string>
-    <string name="splash_app_title">Boston Scientific Video Chat</string>
+    <string name="app_name">BSC Video Chat</string>
+    <string name="splash_app_title">BSC Video Chat</string>
     <string name="splash_create_session_error">Create session errors:</string>
 
     <!-- Dialogs strings -->
@@ -22,8 +22,8 @@
     <string name="login_chat_retry">Trying Relogin. Please wait a moment</string>
 
     <!-- Notification -->
-    <string name="notification_title">You have an active call</string>
-    <string name="notification_text">Touch takes you back to the call %1$s</string>
+    <string name="notification_title">BSC Call Active</string>
+    <string name="notification_text">Touch this to go back to your call! %1$s</string>
 
     <!-- Errors strings -->
     <string name="error">Error</string>
